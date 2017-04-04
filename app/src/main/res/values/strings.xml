@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Layout Demo</string>
-    <string name="greeting">Hello Android!</string>
+    <string name="greeting">Bonjour Android!</string>
 </resources>
